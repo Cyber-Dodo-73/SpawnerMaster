@@ -1,0 +1,4 @@
+name: SpawnerMaster
+main: fr.cyberdodo.spawnerMaster.SpawnerMasterPlugin
+version: 1.0.1
+api-version: 1.21
